@@ -14,7 +14,7 @@ const Hero = () => {
                                     options={{
                                         strings: [
                                             "Software Developer",
-                                            "Love From "
+                                            "Love From Coding"
                                         ],
                                         delay: 75,
                                         deleteSpeed: 50,
